@@ -13,3 +13,4 @@ mkdir -p vendor
 #touch Makefile_tpl
 touch main.go
 cp ../scripts/Makefile_tpl Makefile
+cp ../scripts/.testcoverage.yml .testcoverage.yml
