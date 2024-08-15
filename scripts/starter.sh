@@ -12,3 +12,4 @@ mkdir -p vendor
 #touch Dockerfile
 #touch Makefile_tpl
 touch main.go
+cp ../scripts/Makefile_tpl Makefile

@@ -15,19 +15,10 @@ test: ## run go tests
 	go test -v ./...
 
 
-integration-test: ### run integration-test
-	go clean -testcache && go test -v ./integration-test/...
-.PHONY: integration-test
-
-
-.PHONY: build-cli
-build-cli:
-	go build cmd/fluent.go
-
 .PHONY: format
 format:
 	gofmt -l -w .
 
 .PHONY: fmtcheck
 fmtcheck: ## run gofmt and print detected files
-	@sh -c "'$(CURDIR)/ci/scripts/goformat.sh'"
+	@sh -c "'$(CURDIR)/scripts/goformat.sh'"
