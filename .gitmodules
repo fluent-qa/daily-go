@@ -1,0 +1,3 @@
+[submodule "qgoconf"]
+	path = qgoconf
+	url = https://github.com/fluent-qa/qgoconf.git

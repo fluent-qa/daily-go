@@ -5,11 +5,15 @@ Go Libs Collections for daily work.
 
 ## Starter Project
 
-***[how-to](./docs/features/starter.md)***
+***[how-to](./docs/features/starter.md)***, or:
+
+```sh
+./starter.sh <project-name>
+```
 
 ## Projects
 
-- [] [qgoconf](./qgoconf) daily go configuration libs
+- [X] [qgoconf](./qgoconf) daily go configuration libs
 - [] [qfluent-ops](./qfluent-ops)daily test ops scripts collections
 - [] [fluent-chains](./fluent-chains)blockchain operations
 
