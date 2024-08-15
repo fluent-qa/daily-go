@@ -1,4 +1,4 @@
-# qfluent-go
+# daily-go: Daily Go Libs Collections
 
 Go Libs Collections for daily work.
 
@@ -9,8 +9,9 @@ Go Libs Collections for daily work.
 
 ## Projects
 
-- [] [fluent-chains](./fluent-chains)blockchain operations
-- [] [qfluentconf](./qfluentconf) configuration libs
+- [] [qgoconf](./qgoconf) daily go configuration libs
 - [] [qfluent-ops](./qfluent-ops)daily test ops scripts collections
+- [] [fluent-chains](./fluent-chains)blockchain operations
+
 
 
