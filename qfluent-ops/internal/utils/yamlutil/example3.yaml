@@ -1,4 +1,0 @@
-kind: test
-metadata:
-  name: cluster
-  namespace: test-ns
