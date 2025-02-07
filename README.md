@@ -14,8 +14,4 @@ Go Libs Collections for daily work.
 ## Projects
 
 - [X] [qgoconf](./qgoconf) daily go configuration libs
-- [] [qfluent-ops](./qfluent-ops)daily test ops scripts collections
-- [] [fluent-chains](./fluent-chains)blockchain operations
-
-
-
+- [] [qfluent-ops](./qgops)daily test ops scripts collections
